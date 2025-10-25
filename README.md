@@ -12,7 +12,7 @@ Interaktiver Business-Plan mit demografischen Trends und SEO-Performance-Analyse
 
 ## Live Demo
 
-[Hier ansehen](https://ruempel-schmiede-businessplan.vercel.app)
+🚀 **[Hier ansehen](https://ruempel-schmiede-businessplan-interaktiv-2lk9px91n.vercel.app)**
 
 ## Datenquellen
 
